@@ -2,6 +2,11 @@ h1{
     color: aqua;
 }
 img{
-    width: 300px;
-    height: 250px;
+    width: 250px;
+    height: 250px; 
+}
+.images{
+     font-family:  sans-serif ;
+     font-style: italic;
+    }
 }
