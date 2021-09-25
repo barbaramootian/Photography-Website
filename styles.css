@@ -1,4 +1,7 @@
 h1{
-    background-color: aqua;
-    font-family: Arial, sans-serif;
+    color: aqua;
+}
+img{
+    width: 300px;
+    height: 250px;
 }
