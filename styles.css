@@ -12,8 +12,9 @@ img{
 .images{
      font-family:  sans-serif ;
      font-style: italic;
-
     }
 .photo{
-   
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
