@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(50, 179, 184);
+}
 h1{
     color: aqua;
 }
@@ -8,5 +11,8 @@ img{
 .images{
      font-family:  sans-serif ;
      font-style: italic;
+
     }
+.photo{
+   
 }
