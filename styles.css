@@ -2,7 +2,8 @@ body{
     background-color: rgb(50, 179, 184);
 }
 h1{
-    color: aqua;
+    color: #ff3c00;
+    font-size: 50px;
 }
 img{
     width: 250px;
