@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../background-color"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "week1"
+	}
+}
